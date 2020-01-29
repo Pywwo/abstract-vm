@@ -1,6 +1,3 @@
-//
-// Created by romain on 17/07/19.
-//
 
 #ifndef OBJECTIF_DIMANCHE_EOPERAND_HPP
 #define OBJECTIF_DIMANCHE_EOPERAND_HPP

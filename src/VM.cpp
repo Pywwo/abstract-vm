@@ -1,7 +1,3 @@
-//
-// Created by romain on 16/07/19.
-//
-
 #include "../include/VM.hpp"
 
 AbstractVM::VM::VM(std::string &av) :

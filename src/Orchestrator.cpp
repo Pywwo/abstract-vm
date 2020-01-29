@@ -1,7 +1,3 @@
-//
-// Created by romain on 16/07/19.
-//
-
 #include "../include/Orchestrator.hpp"
 #include "VMException.hpp"
 

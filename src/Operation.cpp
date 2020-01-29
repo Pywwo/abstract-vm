@@ -1,6 +1,3 @@
-//
-// Created by romain on 18/07/19.
-//
 
 #include "Factory.hpp"
 #include <cmath>

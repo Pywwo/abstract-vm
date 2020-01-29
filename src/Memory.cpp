@@ -1,7 +1,3 @@
-//
-// Created by romain on 16/07/19.
-//
-
 #include "../include/Memory.hpp"
 #include "VMException.hpp"
 #include <algorithm>
